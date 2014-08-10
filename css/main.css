@@ -1,0 +1,40 @@
+.card {
+    display: inline-block;
+
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    border: 2px solid black;
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card:hover {
+    border: 2px solid red;
+    cursor: pointer;
+}
+
+#scoreboard {
+    margin-top: 5px;
+}
+
+.team {
+    display: block;
+
+    margin-bottom: 5px;
+    padding: 5px 10px;
+}
+
+.team h1 {
+    font-size: 1.2em;
+    margin-top: 0px;
+    padding-top: 5px;
+    color: #5bc0de;
+}
+
+.team.current {
+    border-left: 8px solid #5bc0de;
+    padding-left: 2px;
+}

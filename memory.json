@@ -1,0 +1,22 @@
+{
+    "pictures": [
+	"pictures/1.jpg",
+	"pictures/2.jpg",
+	"pictures/3.jpg",
+	"pictures/4.jpg",
+	"pictures/5.jpg",
+	"pictures/6.jpg",
+	"pictures/7.jpg",
+	"pictures/8.jpg"
+    ],
+    "teams": [
+	"Flauti",
+	"Clarinetti e Sax",
+	"Trombe",
+	"Corni",
+	"Tromboni, Euphonium e Tuba",
+	"Percussioni"
+    ],
+    "back": "pictures/back.jpg",
+    "showingTimeout": 3000
+}
